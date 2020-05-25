@@ -9,7 +9,6 @@ command does *not* highlight links with blue/cyan.
 
 This short document will show you how to convert markdown to PDF *with* colored links and hyperlinks.
 
-Example: [This document rendered using the command below]() (In progress... TODO).
 
 ## How to Convert Markdown to PDF *with* Colored Links
 
@@ -39,3 +38,4 @@ how to do this apparently required reading the instruction manual. Luckily,
 someone pointed out the section I should read in [this thread](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/pandoc-discuss/EhXTHbvEv-w/nHYzWtCTAgAJ).
 I was a fool for thinking that people didn't think of this, but maybe they're the fools for not enabling this feature by default.
 
+Example: [This document rendered using the command below]() (In progress... TODO).
