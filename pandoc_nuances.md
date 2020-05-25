@@ -1,6 +1,6 @@
 # Convert Markdown to PDF: Pandoc Links and Hyperlinks
 
-Keywords: convert, markdown, pdf, hyperlink, blue, cyan, link, color
+Keywords: convert, markdown, pdf, hyperlink, blue, cyan, link, color, pandoc
 
 ## Motivation
 
