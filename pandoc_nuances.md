@@ -36,6 +36,5 @@ the default converting process does *not* highlight links with blue/cyan (instea
 they are colored the default text color black, although clickable). Knowing 
 how to do this apparently required reading the instruction manual. Luckily, 
 someone pointed out the section I should read in [this thread](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/pandoc-discuss/EhXTHbvEv-w/nHYzWtCTAgAJ).
-I was a fool for thinking that people didn't think of this, but maybe they're the fools for not enabling this feature by default.
 
 Example: [This document rendered using the command below]() (In progress... TODO).
