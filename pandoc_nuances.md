@@ -31,10 +31,10 @@ You can replace `cyan` with whatever color you want, as long as it is allowed by
 ## Longer Motivation
 
 Currently, [Pandoc](https://pandoc.org/getting-started.html) has been the most
-reliable way to convert markdown files (`.md`) to `.pdf` files. Unfortunately,
-the default converting process does *not* highlight links with blue/cyan (instead,
+reliable way to convert markdown files (`.md`) to `.pdf` files.
+The default converting process does *not* highlight links with blue/cyan (instead,
 they are colored the default text color black, although clickable). Knowing 
-how to do this apparently required reading the instruction manual. Luckily, 
-someone pointed out the section I should read in [this thread](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/pandoc-discuss/EhXTHbvEv-w/nHYzWtCTAgAJ).
+how to do this required reading the instruction manual. Luckily, 
+someone kindly pointed out the section I should read in [this thread](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/pandoc-discuss/EhXTHbvEv-w/nHYzWtCTAgAJ).
 
 Example: [This document rendered using the command below]() (In progress... TODO).
