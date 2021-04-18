@@ -12,3 +12,4 @@ Review Heatmap | [Requires manual download and install](https://ankiweb.net/shar
 Speed Focus Mode auto-alert auto-reveal auto-fail | 1046608507
 True Retention by Card Maturity | 923360400
 True Retention by Card Maturity Simplified | 1779060522
+Edit LaTeX build process | 937148547
