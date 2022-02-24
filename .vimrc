@@ -27,4 +27,6 @@ set encoding=utf-8
 
 set nomodeline
 
+set ff=unix
+
 autocmd BufWritePre * :%s/\s\+$//e  " Remove all trailing whitespace on :w
