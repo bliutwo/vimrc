@@ -26,3 +26,5 @@ set hlsearch
 set encoding=utf-8
 
 set nomodeline
+
+autocmd BufWritePre * :%s/\s\+$//e  " Remove all trailing whitespace on :w
