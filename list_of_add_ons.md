@@ -13,5 +13,4 @@ Speed Focus Mode auto-alert auto-reveal auto-fail | 1046608507
 True Retention by Card Maturity | 923360400
 True Retention by Card Maturity Simplified | 1779060522
 Edit LaTeX build process | 937148547
-Edit LaTeX build process | 937148547
 Memory Forest | 1255432496
